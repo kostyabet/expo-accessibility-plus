@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] — 2026-07-10
+
+### Changed
+- Added a hero illustration to the README.
+
 ## [0.1.0] — 2026-07-10
 
 ### Added
@@ -17,5 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Unified `addChangeListener` event with `{ flag, value }` payload.
 - `isAvailable` — boolean flag for platform gating.
 
-[Unreleased]: https://github.com/kostyabet/expo-accessibility-plus/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/kostyabet/expo-accessibility-plus/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/kostyabet/expo-accessibility-plus/releases/tag/v0.1.1
 [0.1.0]: https://github.com/kostyabet/expo-accessibility-plus/releases/tag/v0.1.0

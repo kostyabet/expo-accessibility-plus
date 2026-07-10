@@ -1,6 +1,6 @@
 {
   "name": "expo-accessibility-plus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extended accessibility settings for React Native / Expo. Read and subscribe to system flags that stock AccessibilityInfo doesn't expose — differentiate without color, darker system colors, content size category, button shapes, and more.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
