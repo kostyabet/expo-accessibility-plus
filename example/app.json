@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "expo-accessibility-plus-example",
+    "slug": "expo-accessibility-plus-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "bundleIdentifier": "com.kostyabet.expoAccessibilityPlusExample",
+      "supportsTablet": true
+    },
+    "plugins": ["expo-dev-client"]
+  }
+}

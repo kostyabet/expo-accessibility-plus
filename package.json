@@ -1,0 +1,61 @@
+{
+  "name": "expo-accessibility-plus",
+  "version": "0.1.0",
+  "description": "Extended accessibility settings for React Native / Expo. Read and subscribe to system flags that stock AccessibilityInfo doesn't expose — differentiate without color, darker system colors, content size category, button shapes, and more.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "typecheck": "tsc --noEmit",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module",
+    "open:ios": "open -a \"Xcode\" example/ios"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "ios",
+    "accessibility",
+    "a11y",
+    "uiaccessibility",
+    "differentiate-without-color",
+    "darker-system-colors",
+    "content-size-category",
+    "dynamic-type"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostyabet/expo-accessibility-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kostyabet/expo-accessibility-plus/issues"
+  },
+  "homepage": "https://github.com/kostyabet/expo-accessibility-plus#readme",
+  "author": "Kostya Betenya <kostyabet336@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "build",
+    "ios",
+    "*.podspec",
+    "expo-module.config.json"
+  ],
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "expo": "~54.0.33",
+    "expo-module-scripts": "^4.0.0",
+    "expo-modules-core": "^3.0.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "typescript": "~5.9.2"
+  }
+}

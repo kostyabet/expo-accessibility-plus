@@ -1,0 +1,5 @@
+build
+node_modules
+example/ios
+example/android
+example/.expo
