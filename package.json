@@ -1,7 +1,7 @@
 {
   "name": "expo-accessibility-plus",
-  "version": "0.1.1",
-  "description": "Extended accessibility settings for React Native / Expo. Read and subscribe to system flags that stock AccessibilityInfo doesn't expose — differentiate without color, darker system colors, content size category, button shapes, and more.",
+  "version": "0.1.2",
+  "description": "Extended accessibility settings for React Native / Expo. Read and subscribe to system flags that stock AccessibilityInfo doesn't expose \u2014 differentiate without color, darker system colors, content size category, button shapes, and more.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "sideEffects": false,
@@ -41,7 +41,6 @@
   "files": [
     "build",
     "ios",
-    "*.podspec",
     "expo-module.config.json"
   ],
   "peerDependencies": {
